@@ -1,10 +1,10 @@
 -- Создание БД
-CREATE DATABASE todo
+CREATE DATABASE eqvb71qhagmikjm5
   DEFAULT CHARACTER SET utf8
   DEFAULT COLLATE utf8_general_ci;
 
 -- Обращение к БД
-USE todo;
+USE eqvb71qhagmikjm5;
 
 -- Создание таблицы для пользователей
 CREATE TABLE users (
